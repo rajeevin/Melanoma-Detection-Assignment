@@ -29,10 +29,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Class rebalancing helped reduce overfitting, leading to a decrease in loss, but it also caused a significant drop in accuracy.
+- Initially, the model was trained without data augmentation, resulting in severe overfitting.
+- To address this, we introduced dropout and data augmentation, which successfully reduced the overfitting issue.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
